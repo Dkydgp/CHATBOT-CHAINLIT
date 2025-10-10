@@ -1,0 +1,9 @@
+# Ignore environment and system files
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.vscode/
+.idea/
